@@ -27,7 +27,7 @@ I'm an undergraduate CSE student at SSN College of Engineering.
 <li>I'm currently working on a collaborative code editor which makes use of socket.io.</li>
 <li>I'm also working on a portfolio builder using MERN stack.</li>
 <li>I'm currently learning socket.io.</li>
-<li>I'm looking to colloborate on MERN stack projects.</li>
+<li>I'm looking to collaborate on MERN stack projects.</li>
 </ul>
 <h2>Languages and tools i'm proficient in are:</h2>
 <p>
