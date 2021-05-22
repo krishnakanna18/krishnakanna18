@@ -1,7 +1,6 @@
 <h2>
-Hi there! 👋
+Hi there! 👋   
 </h2>
-
 
 <!--
 **krishnakanna18/krishnakanna18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=krishnakanna18)
 
 My name is Krishnakumar K. I'm a full stack web developer proficient in MERN stack and interested in developing web applications. 
 <br/>
