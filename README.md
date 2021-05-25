@@ -49,7 +49,7 @@ I'm an undergraduate CSE student at SSN College of Engineering.
 <h2>My Github Stats</h2>
 
 [![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakanna18&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakanna18&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 **Pro tip:  `git reflog show` is a life saver**
 
